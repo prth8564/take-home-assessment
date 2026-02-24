@@ -1,7 +1,8 @@
 # Database Schema
 There are two tables.
- -users
- -insurance
+
+  - users
+  - insurance
 
 Insurance table references itself.
 This is used for add-ons.
